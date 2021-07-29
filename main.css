@@ -1,0 +1,44 @@
+/* Font Styles */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+header p{
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 24px;
+    font-style: normal;
+}
+
+header .mini-title{
+    font-size: 14px;
+    line-height: 22px;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 72px;
+}
+
+.btn{
+    width: 168px;
+    height: 44px;
+    padding: 10px;
+    background-color: #E76F51;
+    color: #FFFFFF;
+}
+
+.focus-color{
+    color: #E76F51;
+}
+
+.grayscale{
+    filter: grayscale(1);
+}
+
+.client-name{
+    color: #23A6F0;
+}
